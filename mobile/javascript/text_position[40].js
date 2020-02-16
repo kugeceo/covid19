@@ -1,0 +1,1 @@
+﻿positionForPages[40]={page:40,positions:[{word:"早发现早治疗",left:0.439740,top:0.443771,width:0.276093,height:0.082797},{word:"03",left:0.139974,top:0.452328,width:0.062577,height:0.139300},{word:"早期临床症状、病例识别、临床治疗",left:0.381536,top:0.617378,width:0.400000,height:0.045111}]};
