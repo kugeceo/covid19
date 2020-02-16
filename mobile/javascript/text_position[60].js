@@ -1,0 +1,1 @@
+﻿positionForPages[60]={page:60,positions:[{word:"个人卫生防护",left:0.439740,top:0.443771,width:0.276093,height:0.082797},{word:"04",left:0.139974,top:0.452328,width:0.062577,height:0.139300}]};

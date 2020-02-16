@@ -1,0 +1,1 @@
+﻿positionForPages[73]={page:73,positions:[{word:"场所卫生要求",left:0.439740,top:0.443759,width:0.276093,height:0.082798},{word:"05",left:0.139974,top:0.452328,width:0.062577,height:0.139300}]};
