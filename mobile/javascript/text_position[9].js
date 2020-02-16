@@ -1,0 +1,1 @@
+﻿positionForPages[9]={page:9,positions:[{word:"认识冠状病毒",left:0.439740,top:0.443759,width:0.276093,height:0.082798},{word:"01",left:0.139974,top:0.452328,width:0.062577,height:0.139300},{word:"生物学特点、致病性、传播途径、流行现状",left:0.344036,top:0.608350,width:0.475000,height:0.045111}]};
