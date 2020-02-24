@@ -9,3 +9,4 @@ covid19新型冠状病毒肺炎预防手册
 由于编写时间仓促,对新型疾病有关问题认知不足,斧正为感
 《新型冠状病毒肺炎预防手册》编撰组
 2020年元月
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b755374-0221-46f6-a5db-d4c74598344e/deploy-status)](https://app.netlify.com/sites/youthful-euclid-bcf102/deploys)
