@@ -1,6 +1,20 @@
 # covid19新型冠状病毒肺炎预防手册
+
+
 covid19新型冠状病毒肺炎预防手册
+
+https://covid19.2mfa.cn/
+
 新型冠状病毒肺炎预防手册基于Flip PDF Professional 2.4.9 制作
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b755374-0221-46f6-a5db-d4c74598344e/deploy-status)](https://app.netlify.com/sites/youthful-euclid-bcf102/deploys)
+
+
+
+http://covid19s.netlify.com/
+
+
 
 2019年12月中旬以来,中国武汉短期内出现了以发热、乏力、咳嗽、呼吸不畅为主要症状的不明原因肺炎病例各级政府、卫生健康行政主管部门高度重视,怏速组织疾控机构、医疗单位和科研院所开展调查、救治和协作攻
 关,迅速确定这类病例的病原为新型冠状病毒,世界卫生组织(WHO)确认并命名为2019-nCoV,该病原感染所
@@ -9,4 +23,3 @@ covid19新型冠状病毒肺炎预防手册
 由于编写时间仓促,对新型疾病有关问题认知不足,斧正为感
 《新型冠状病毒肺炎预防手册》编撰组
 2020年元月
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8b755374-0221-46f6-a5db-d4c74598344e/deploy-status)](https://app.netlify.com/sites/youthful-euclid-bcf102/deploys)
